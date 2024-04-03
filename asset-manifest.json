@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.52fa5805.css",
-    "main.js": "/static/js/main.f1ff2eb0.js",
-    "static/media/img_main2.jpg": "/static/media/img_main2.eef0e4a9f59a25a607c2.jpg",
-    "static/media/img_main1.jpg": "/static/media/img_main1.45153a978ef48551f2ea.jpg",
-    "static/media/map.jpg": "/static/media/map.3eec375357b47346bba4.jpg",
-    "static/media/intro_img_01.png": "/static/media/intro_img_01.0c462cfae19ddc91347c.png",
-    "static/media/intro_img_04.png": "/static/media/intro_img_04.4c5065c1396c9bd44102.png",
-    "static/media/jomunbo_img_01.jpg": "/static/media/jomunbo_img_01.8ccd0609d9f6d35347de.jpg",
-    "static/media/intro_img_02.png": "/static/media/intro_img_02.6d0deef20e73ea55daa9.png",
-    "static/media/img_memorial3.jpg": "/static/media/img_memorial3.3856865283d935f45537.jpg",
-    "static/media/intro_img_03.png": "/static/media/intro_img_03.3d3d7537de47a1a62a93.png",
-    "index.html": "/index.html",
-    "main.52fa5805.css.map": "/static/css/main.52fa5805.css.map",
-    "main.f1ff2eb0.js.map": "/static/js/main.f1ff2eb0.js.map"
+    "main.css": "/react_remembered/static/css/main.52fa5805.css",
+    "main.js": "/react_remembered/static/js/main.e9b7b1e7.js",
+    "static/media/img_main2.jpg": "/react_remembered/static/media/img_main2.eef0e4a9f59a25a607c2.jpg",
+    "static/media/img_main1.jpg": "/react_remembered/static/media/img_main1.45153a978ef48551f2ea.jpg",
+    "static/media/map.jpg": "/react_remembered/static/media/map.3eec375357b47346bba4.jpg",
+    "static/media/intro_img_01.png": "/react_remembered/static/media/intro_img_01.0c462cfae19ddc91347c.png",
+    "static/media/intro_img_04.png": "/react_remembered/static/media/intro_img_04.4c5065c1396c9bd44102.png",
+    "static/media/jomunbo_img_01.jpg": "/react_remembered/static/media/jomunbo_img_01.8ccd0609d9f6d35347de.jpg",
+    "static/media/intro_img_02.png": "/react_remembered/static/media/intro_img_02.6d0deef20e73ea55daa9.png",
+    "static/media/img_memorial3.jpg": "/react_remembered/static/media/img_memorial3.3856865283d935f45537.jpg",
+    "static/media/intro_img_03.png": "/react_remembered/static/media/intro_img_03.3d3d7537de47a1a62a93.png",
+    "index.html": "/react_remembered/index.html",
+    "main.52fa5805.css.map": "/react_remembered/static/css/main.52fa5805.css.map",
+    "main.e9b7b1e7.js.map": "/react_remembered/static/js/main.e9b7b1e7.js.map"
   },
   "entrypoints": [
     "static/css/main.52fa5805.css",
-    "static/js/main.f1ff2eb0.js"
+    "static/js/main.e9b7b1e7.js"
   ]
 }
